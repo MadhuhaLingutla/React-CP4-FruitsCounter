@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  padding: 30px;
+}
+.card {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 20px;
+  width: 60%;
+  margin: auto;
+}
+.heading {
+  color: #000000;
+  font-size: 25px;
+}
+.count {
+  color: #ffd569;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 30px;
+}
+.images-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.fruit-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 12px;
+  border: none;
+  border-radius: 7px;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+}
